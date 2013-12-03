@@ -3020,6 +3020,10 @@
 			"website": "getuikit.com",
 			"cats": [ 18 ],
 			"script": "uikit.*\\.js"
-		}
+		},
+		"Pathful": {
+                        "website": "pathful.com",
+                        "cats": [ 10 ]
+                }
 	}
 }
